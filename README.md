@@ -1,6 +1,6 @@
-# 📚 Cuymanga API
+# 📚 Comic API - Cuymanga API
 
-CuymangaAPI is a REST API that scrapes data from **Komikindo2.com**, built for learning and exploration purposes.
+CuymangaAPI is a REST API that scrapes data from **Komikindo**, built for learning and exploration purposes.
 
 ---
 
