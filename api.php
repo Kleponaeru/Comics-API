@@ -21,7 +21,7 @@ error_reporting(E_ALL);
 header('Content-Type: application/json; charset=utf-8');
 header('Access-Control-Allow-Origin: *');
 header('X-Content-Type-Options: nosniff');
-define('BASE_URL', 'https://komikindo.rip'); // pantau terus bang 
+define('BASE_URL', 'https://komikindo.ch'); // pantau terus bang 
 define('USER_AGENT', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:118.0) Gecko/20100101 Firefox/118.0');
 define('RATE_LIMIT', 60); // Batas request per menit
 define('RATE_LIMIT_WINDOW', 60); // Jendela waktu dalam detik
